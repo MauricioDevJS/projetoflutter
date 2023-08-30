@@ -1,0 +1,4 @@
+#Mon Aug 28 00:47:49 BRT 2023
+base.0=C\:\\Users\\mauri\\OneDrive\\Documentos\\projetoflutter\\prognosticare\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

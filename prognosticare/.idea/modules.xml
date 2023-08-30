@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/prognosticare.iml" filepath="$PROJECT_DIR$/prognosticare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/prognosticare_android.iml" filepath="$PROJECT_DIR$/android/prognosticare_android.iml" />
+    </modules>
+  </component>
+</project>
